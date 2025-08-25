@@ -51,42 +51,6 @@ Key Metrics Produced
 * **Tenure & Age Insights** → Average employee tenure and age.
 
 
-Dashboard Features
-
-The dashboard was built in Power BI using the cleaned dataset (EmpSnap).
-
-1. Employee Retention & Turnover
-
-KPI Card: % Active vs Terminated employees.
-
-Line Chart: Termination trend over time.
-
-2. Performance Insights
-
-Bar Chart: Performance distribution by department.
-
-Matrix: Department × Performance Score.
-
-3. Salary Analysis
-
-Column Chart: Avg salary by department.
-
-KPI Cards: Min / Max salaries.
-
-4. Diversity & Demographics
-
-Donut Chart: Gender ratio.
-
-Bar Chart: Race distribution.
-
-Histogram: Age distribution.
-
-5. Tenure & Hiring Trends
-
-Line Chart: Monthly hires vs terminations.
-
-KPI Card: Average tenure (years).
-
 Key Insights on the dashboard
 
 Departments with higher average salaries tend to have lower turnover.
